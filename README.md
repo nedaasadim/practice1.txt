@@ -1,9 +1,1 @@
-file = open("products.txt", "w")
-name1 = input("Enter first product name: ")
-price1 = input("Enter first product price: ")
-file.write(name1 + "," + price1 + "\n")
-name2 = input("Enter second product name: ")
-price2 = input("Enter second product price: ")
-file.write(name2 + "," + price2 + "\n")
-file.close()
-print("Products saved successfully")
+
